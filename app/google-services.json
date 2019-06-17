@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "70746860964",
+    "firebase_url": "https://huellitascare-d4baa.firebaseio.com",
+    "project_id": "huellitascare-d4baa",
+    "storage_bucket": "huellitascare-d4baa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70746860964:android:20f16c035642be50",
+        "android_client_info": {
+          "package_name": "com.karichalobato.huellitascare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70746860964-q0fv8r7mv70iu0bbg92kuqmk7hu28ed2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.karichalobato.huellitascare",
+            "certificate_hash": "a96685f5e97e949564be46812984989009ed4ee4"
+          }
+        },
+        {
+          "client_id": "70746860964-232v0aoaf3sdaj66ef581dio248hh4cp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASZI5bhNW2zz8cVHnHLs2lj-zLwbDDHy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70746860964-232v0aoaf3sdaj66ef581dio248hh4cp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
